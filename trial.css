@@ -14,7 +14,9 @@
     font-family: 'Montserrat', sans-serif;
     font-size: 12px;
     background-color: #9999dd;
-    background-image: url("https://images.unsplash.com/photo-1528818955841-a7f1425131b5?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8M3x8c3RhcnJ5JTIwc2t5fGVufDB8fDB8fA%3D%3D&w=1000&q=80");
+    background-image: url("https://wallpapers.com/images/hd/purple-aesthetic-laptop-xuo9xvjiiwjfy7tb.jpg");
+    background-size: cover;
+    background-position: 50% 50%;
     color: #B4B4B4;
     }
     /**/
@@ -23,7 +25,10 @@
     width: 1000px;
     height: 600px;
     padding: 25px;
-    background-color: #7661b2;
+    background-color: transparent;
+    /*background-image: url("https://images.pexels.com/photos/3214110/pexels-photo-3214110.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1");
+    background-size: cover;
+    background-position: 50% 50%;*/
     }
     .container {
     display: flex;
